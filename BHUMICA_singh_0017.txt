@@ -6,7 +6,7 @@ Configuring the username and email, and setup SSH key Authentication
 2. Then we will configure our username and email id for authentication on git bash
 
 
-3. in this step, we will set up our SSH key authentication on git bash
+3. deleted
 
 
 
