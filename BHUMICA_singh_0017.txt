@@ -1,4 +1,4 @@
-﻿
+
 Configuring the username and email, and setup SSH key Authentication
 
 1. Verifying the installed git version
@@ -18,3 +18,4 @@ Configuring the username and email, and setup SSH key Authentication
 
 NAME: BHUMICA SINGH
 ENROLLMENT NUMBER: A26MCAAIG0017
+Course : mca ai
