@@ -1,0 +1,20 @@
+﻿
+Configuring the username and email, and setup SSH key Authentication
+
+1. Verifying the installed git version
+
+2. Then we will configure our username and email id for authentication on git bash
+
+
+3. in this step, we will set up our SSH key authentication on git bash
+
+
+
+
+
+4. Now we will setup this on github and add SSH key on github.
+
+
+
+NAME: BHUMICA SINGH
+ENROLLMENT NUMBER: A26MCAAIG0017
